@@ -8,8 +8,7 @@ List the technologies you have used in your project, such as:
   Bootstrap
 
 
-
-
-
+site is live:
 https://karim2251.github.io/fylo-dark-theme/
+
 build by ELALAOUI
